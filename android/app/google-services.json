@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735190352085",
+    "project_id": "easy-earn-app-2b7fe",
+    "storage_bucket": "easy-earn-app-2b7fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735190352085:android:456ee53531f9465a3de25c",
+        "android_client_info": {
+          "package_name": "com.example.easy_earn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuBjbvD_no2NeB2iuFEZGly9uddgozSb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

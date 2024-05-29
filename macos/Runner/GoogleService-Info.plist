@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDB6w76FuTvWqdHC5Fyfpddg73d94cCDdg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>735190352085</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.easyEarn.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>easy-earn-app-2b7fe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>easy-earn-app-2b7fe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:735190352085:ios:5f6ffaca86f6ef483de25c</string>
+</dict>
+</plist>
